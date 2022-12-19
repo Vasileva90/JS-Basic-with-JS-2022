@@ -1,1 +1,1 @@
-# JS-Basic-with-JS-2022
+# Basic with JS
