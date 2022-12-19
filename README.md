@@ -1,2 +1,1 @@
-# Demo-Project
-This is my demo project!
+# JS-Basic-with-JS-2022
