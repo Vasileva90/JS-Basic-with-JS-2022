@@ -1,1 +1,1 @@
-# Basic with JS
+# Programming Basic with JS
